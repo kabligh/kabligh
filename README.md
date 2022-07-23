@@ -1,7 +1,7 @@
 ### Hello 🌞
 
-I'm Annabel. After eight years as a news editor and podcast producer, I joined Makers Academy's intensive 12-week bootcamp in October 2020 to kickstart a new career as a full stack developer. 
+I'm Annabel. I'm a full stack software engineer at [Contact](https://contact.xyz/).
 
-🌵 I'm excited to learn new things and build cool products that make the world a better place  
-💃 I'm an Associate Software Engineer at [Contact](https://contact.xyz/)  
+🌵 I'm excited to learn new technologies (and _things_, in general) and also to build cool products
+💃 I worked as a news editor and podcast producer for eight years before making the switch to coding
 🐕 My husky, [Hyko](https://www.instagram.com/hykothehusky/), is the [best dog in the world](https://soundcloud.com/luke/best-dog-in-the-world)  
