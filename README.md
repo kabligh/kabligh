@@ -1,6 +1,6 @@
 ### Hello 🌞
 
-I'm Annabel. I'm a full stack software engineer at [Contact](https://contact.xyz/).
+I'm Annabel. I'm a frontend software engineer at [Slice](https://slicelife.com/pages/about-us).
 
 🌵 I'm excited to learn new technologies (and _things_, in general) and also to build cool products
 💃 I worked as a news editor and podcast producer for eight years before making the switch to coding
